@@ -49,11 +49,11 @@ device, country, category
 
 # Model Evaluation
 ## AUC and Classification Report
-[!EVAL](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/Metric_eval.png)
+![EVAL](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/Metric_eval.png)
 
 ## ROC Curve
-[!ROC](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/ROC.png)
+![ROC](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/ROC.png)
 ## Precision-Recall Curve
-[!PRC](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/Precision_Recall.png)
+![PRC](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/Precision_Recall.png)
 ## Confusion Matrix
-[!CM](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/Confusion_matrix.PNG)
+![CM](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/Confusion_matrix.PNG)

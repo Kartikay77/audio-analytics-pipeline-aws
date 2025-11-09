@@ -57,3 +57,26 @@ device, country, category
 ![PRC](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/Precision_Recall.png)
 ## Confusion Matrix
 ![CM](https://github.com/Kartikay77/audio-analytics-pipeline-aws/blob/main/Confusion_matrix.PNG)
+
+# ===========================
+# 📊 MODEL EVALUATION RESULTS
+# ===========================
+
+AUC Score              : 0.5925
+Accuracy               : 0.39
+Precision (Class 0)    : 0.91
+Recall (Class 0)       : 0.32
+F1-Score (Class 0)     : 0.47
+
+Precision (Class 1)    : 0.18
+Recall (Class 1)       : 0.83
+F1-Score (Class 1)     : 0.29
+
+Macro Avg (Precision)  : 0.54
+Macro Avg (Recall)     : 0.57
+Macro Avg (F1-Score)   : 0.38
+
+Weighted Avg (Precision): 0.80
+Weighted Avg (Recall)   : 0.39
+Weighted Avg (F1-Score) : 0.44
+

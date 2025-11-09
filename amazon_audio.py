@@ -27,8 +27,8 @@ AWS_REGION = "us-east-2"                   # your region (Ohio)
 S3_PREFIX  = "audio_pipeline_demo"         # folder in your bucket
 
 # Paste your keys here (or use Colab secrets)
-os.environ["AWS_ACCESS_KEY_ID"]     = "AKIA2RB3YVDFTDEUWTVP"
-os.environ["AWS_SECRET_ACCESS_KEY"] = "q26929g/NztCl6d3W5fOEn5Mzt0AyG6Q74XTEjmG"
+os.environ["AWS_ACCESS_KEY_ID"]     = "-"
+os.environ["AWS_SECRET_ACCESS_KEY"] = "-"
 os.environ["AWS_DEFAULT_REGION"]    = AWS_REGION
 
 RAW_PREFIX    = f"s3://{S3_BUCKET}/{S3_PREFIX}/raw"
